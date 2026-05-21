@@ -8,4 +8,4 @@ spring:
     password: root
 
 custom:
-  message: Employee Service Config From Git Config Server
+  message: Employee Service Config From Git Config Server version1
